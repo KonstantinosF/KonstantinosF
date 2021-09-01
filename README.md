@@ -1,9 +1,6 @@
+## Konstantinos F
+I am a Surveyor Engineer from [National Technical University of Athens](https://www.ntua.gr/en/) and currently working towards earning a Master's degree in Data Science from [NCSR "Demokritos"](http://www.demokritos.gr/) & [UoP](https://www.uop.gr/en/).
 ### Hi there 👋
-
-<!--
-**KonstantinosF/KonstantinosF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+<!--
+**KonstantinosF/KonstantinosF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
